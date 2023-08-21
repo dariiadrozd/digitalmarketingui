@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald";
+  font-style: normal;
+}
+
+body {
+  width: 1440px;
+  max-width: max-content;
+  margin: 300px auto;
+}
+
+.logo p{
+  color: #000;
+line-height: 26px; 
+font: 400 14px 'Oswald';
+}
+
+header .logo {
+  background-image: url(./img.svg/IMAGE.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 93px;
+  height: 32px;
+}
+header nav {
+  width: 600px;
+}
